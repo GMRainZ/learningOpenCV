@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/rain_programing/opencvProject/opencvPro/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DIMAGE_DIR=\\\"D:/rain_programing/opencvProject/opencvPro/imagesDir\\\" @CMakeFiles/LEARNOPENCV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\LEARNOPENCV.dir\\src\\main.cpp.obj -c D:\\rain_programing\\opencvProject\\opencvPro\\src\\main.cpp",
+  "file": "D:/rain_programing/opencvProject/opencvPro/src/main.cpp",
+  "output": "CMakeFiles/LEARNOPENCV.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/rain_programing/opencvProject/opencvPro/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DIMAGE_DIR=\\\"D:/rain_programing/opencvProject/opencvPro/imagesDir\\\" @CMakeFiles/LEARNOPENCV.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\LEARNOPENCV.dir\\src\\testpro.cpp.obj -c D:\\rain_programing\\opencvProject\\opencvPro\\src\\testpro.cpp",
+  "file": "D:/rain_programing/opencvProject/opencvPro/src/testpro.cpp",
+  "output": "CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj"
+}
+]

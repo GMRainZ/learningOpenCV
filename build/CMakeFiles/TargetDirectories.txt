@@ -1,0 +1,3 @@
+D:/rain_programing/opencvProject/opencvPro/build/CMakeFiles/LEARNOPENCV.dir
+D:/rain_programing/opencvProject/opencvPro/build/CMakeFiles/edit_cache.dir
+D:/rain_programing/opencvProject/opencvPro/build/CMakeFiles/rebuild_cache.dir
