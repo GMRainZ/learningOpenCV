@@ -90,6 +90,8 @@ message(STATUS
 
 aux_source_directory(${PROJECT_SOURCE_DIR}/src SRC_LIST)
 
+message(STATUS ${SRC_LIST})
+
 set(IMAGE_DIR ${PROJECT_SOURCE_DIR}/imagesDir)
 file(MAKE_DIRECTORY ${IMAGE_DIR})
 # 在CMakeLists.txt文件中，直接将路径添加为宏定义：

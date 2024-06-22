@@ -1,6 +1,6 @@
-CMakeFiles/LEARNOPENCV.dir/src/main.cpp.obj: \
- D:\rain_programing\opencvProject\opencvPro\src\main.cpp \
- D:/rain_programing/opencvProject/opencvPro/include/testpro.hpp \
+CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj: \
+ D:\rain_programing\opencvProject\opencvPro\src\panorama.cpp \
+ D:/rain_programing/opencvProject/opencvPro/include/panorama.hpp \
  D:/rain_programing/vscodeProject/buildOpenCV/buildOpenCV/install/include/opencv2/opencv.hpp \
  D:/rain_programing/vscodeProject/buildOpenCV/buildOpenCV/install/include/opencv2/opencv_modules.hpp \
  D:/rain_programing/vscodeProject/buildOpenCV/buildOpenCV/install/include/opencv2/core.hpp \
@@ -363,5 +363,4 @@ CMakeFiles/LEARNOPENCV.dir/src/main.cpp.obj: \
  D:/rain_programing/vscodeProject/buildOpenCV/buildOpenCV/install/include/opencv2/video.hpp \
  D:/rain_programing/vscodeProject/buildOpenCV/buildOpenCV/install/include/opencv2/video/tracking.hpp \
  D:/rain_programing/vscodeProject/buildOpenCV/buildOpenCV/install/include/opencv2/video/background_segm.hpp \
- D:/rain_programing/opencvProject/opencvPro/include/panorama.hpp \
  D:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/io.h

@@ -3,8 +3,9 @@ import cv2
 
 import pyzbar.pyzbar as pyzbar
   
-# 创建一个VideoCapture对象，参数0表示使用默认摄像头
+# 创建一个VideoCapture对象，参数0表示使用默认的摄像头
 cap=cv2.VideoCapture(0)
+# 设置摄像头分辨率，参数3表示width，参数4表示height
 cap.set(3,640)
 cap.set(4,480)
 

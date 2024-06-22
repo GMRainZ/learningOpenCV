@@ -1,8 +1,11 @@
-#include"testpro.hpp"
+#include "testpro.hpp"
+#include "panorama.hpp"
 
 int main()
 {
-    angleFinder();
+    // angleFinder();
+
+    testPanorama();
 
     return 0;
 }
