@@ -80,12 +80,12 @@ clean: CMakeFiles/LEARNOPENCV.dir/clean
 CMakeFiles/LEARNOPENCV.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LEARNOPENCV.dir\build.make CMakeFiles/LEARNOPENCV.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LEARNOPENCV.dir\build.make CMakeFiles/LEARNOPENCV.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles --progress-num=1,2,3,4 "Built target LEARNOPENCV"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles --progress-num=1,2,3,4,5 "Built target LEARNOPENCV"
 .PHONY : CMakeFiles/LEARNOPENCV.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LEARNOPENCV.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LEARNOPENCV.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles 0
 .PHONY : CMakeFiles/LEARNOPENCV.dir/rule

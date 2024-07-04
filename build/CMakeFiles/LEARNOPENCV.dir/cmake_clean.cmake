@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LEARNOPENCV.dir/src/main.cpp.obj"
   "CMakeFiles/LEARNOPENCV.dir/src/main.cpp.obj.d"
+  "CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj"
+  "CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj.d"
   "CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj"
   "CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj.d"
   "CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj"

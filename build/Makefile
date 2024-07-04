@@ -152,6 +152,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LEARNOPENCV.dir\build.make CMakeFiles/LEARNOPENCV.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/objectDetection.obj: src/objectDetection.cpp.obj
+.PHONY : src/objectDetection.obj
+
+# target to build an object file
+src/objectDetection.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LEARNOPENCV.dir\build.make CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj
+.PHONY : src/objectDetection.cpp.obj
+
+src/objectDetection.i: src/objectDetection.cpp.i
+.PHONY : src/objectDetection.i
+
+# target to preprocess a source file
+src/objectDetection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LEARNOPENCV.dir\build.make CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.i
+.PHONY : src/objectDetection.cpp.i
+
+src/objectDetection.s: src/objectDetection.cpp.s
+.PHONY : src/objectDetection.s
+
+# target to generate assembly for a file
+src/objectDetection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LEARNOPENCV.dir\build.make CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.s
+.PHONY : src/objectDetection.cpp.s
+
 src/panorama.obj: src/panorama.cpp.obj
 .PHONY : src/panorama.obj
 
@@ -212,6 +236,9 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/objectDetection.obj
+	@echo ... src/objectDetection.i
+	@echo ... src/objectDetection.s
 	@echo ... src/panorama.obj
 	@echo ... src/panorama.i
 	@echo ... src/panorama.s

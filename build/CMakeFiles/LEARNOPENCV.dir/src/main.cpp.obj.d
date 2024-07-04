@@ -364,4 +364,9 @@ CMakeFiles/LEARNOPENCV.dir/src/main.cpp.obj: \
  D:/rain_programing/vscodeProject/buildOpenCV/buildOpenCV/install/include/opencv2/video/tracking.hpp \
  D:/rain_programing/vscodeProject/buildOpenCV/buildOpenCV/install/include/opencv2/video/background_segm.hpp \
  D:/rain_programing/opencvProject/opencvPro/include/panorama.hpp \
- D:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/io.h
+ D:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/io.h \
+ D:/rain_programing/opencvProject/opencvPro/include/objectDetection.hpp \
+ D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
+ D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
+ D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
+ D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc

@@ -83,11 +83,26 @@ CMakeFiles/LEARNOPENCV.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LEARNOPENCV.dir/src/main.cpp.s"
 	D:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\rain_programing\opencvProject\opencvPro\src\main.cpp -o CMakeFiles\LEARNOPENCV.dir\src\main.cpp.s
 
+CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj: CMakeFiles/LEARNOPENCV.dir/flags.make
+CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj: CMakeFiles/LEARNOPENCV.dir/includes_CXX.rsp
+CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj: D:/rain_programing/opencvProject/opencvPro/src/objectDetection.cpp
+CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj: CMakeFiles/LEARNOPENCV.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj"
+	D:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj -MF CMakeFiles\LEARNOPENCV.dir\src\objectDetection.cpp.obj.d -o CMakeFiles\LEARNOPENCV.dir\src\objectDetection.cpp.obj -c D:\rain_programing\opencvProject\opencvPro\src\objectDetection.cpp
+
+CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.i"
+	D:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\rain_programing\opencvProject\opencvPro\src\objectDetection.cpp > CMakeFiles\LEARNOPENCV.dir\src\objectDetection.cpp.i
+
+CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.s"
+	D:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\rain_programing\opencvProject\opencvPro\src\objectDetection.cpp -o CMakeFiles\LEARNOPENCV.dir\src\objectDetection.cpp.s
+
 CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj: CMakeFiles/LEARNOPENCV.dir/flags.make
 CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj: CMakeFiles/LEARNOPENCV.dir/includes_CXX.rsp
 CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj: D:/rain_programing/opencvProject/opencvPro/src/panorama.cpp
 CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj: CMakeFiles/LEARNOPENCV.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj"
 	D:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj -MF CMakeFiles\LEARNOPENCV.dir\src\panorama.cpp.obj.d -o CMakeFiles\LEARNOPENCV.dir\src\panorama.cpp.obj -c D:\rain_programing\opencvProject\opencvPro\src\panorama.cpp
 
 CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.i: cmake_force
@@ -102,7 +117,7 @@ CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj: CMakeFiles/LEARNOPENCV.dir/flags
 CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj: CMakeFiles/LEARNOPENCV.dir/includes_CXX.rsp
 CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj: D:/rain_programing/opencvProject/opencvPro/src/testpro.cpp
 CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj: CMakeFiles/LEARNOPENCV.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj"
 	D:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj -MF CMakeFiles\LEARNOPENCV.dir\src\testpro.cpp.obj.d -o CMakeFiles\LEARNOPENCV.dir\src\testpro.cpp.obj -c D:\rain_programing\opencvProject\opencvPro\src\testpro.cpp
 
 CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.i: cmake_force
@@ -116,6 +131,7 @@ CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.s: cmake_force
 # Object files for target LEARNOPENCV
 LEARNOPENCV_OBJECTS = \
 "CMakeFiles/LEARNOPENCV.dir/src/main.cpp.obj" \
+"CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj" \
 "CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj" \
 "CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj"
 
@@ -123,6 +139,7 @@ LEARNOPENCV_OBJECTS = \
 LEARNOPENCV_EXTERNAL_OBJECTS =
 
 LEARNOPENCV.exe: CMakeFiles/LEARNOPENCV.dir/src/main.cpp.obj
+LEARNOPENCV.exe: CMakeFiles/LEARNOPENCV.dir/src/objectDetection.cpp.obj
 LEARNOPENCV.exe: CMakeFiles/LEARNOPENCV.dir/src/panorama.cpp.obj
 LEARNOPENCV.exe: CMakeFiles/LEARNOPENCV.dir/src/testpro.cpp.obj
 LEARNOPENCV.exe: CMakeFiles/LEARNOPENCV.dir/build.make
@@ -144,7 +161,7 @@ LEARNOPENCV.exe: D:/rain_programing/vscodeProject/buildOpenCV/buildOpenCV/instal
 LEARNOPENCV.exe: CMakeFiles/LEARNOPENCV.dir/linkLibs.rsp
 LEARNOPENCV.exe: CMakeFiles/LEARNOPENCV.dir/objects1.rsp
 LEARNOPENCV.exe: CMakeFiles/LEARNOPENCV.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable LEARNOPENCV.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\rain_programing\opencvProject\opencvPro\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable LEARNOPENCV.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LEARNOPENCV.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
